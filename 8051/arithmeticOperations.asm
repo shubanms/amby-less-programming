@@ -1,3 +1,4 @@
 ORG 0000H
 MOV A , #35H
+MOV P1.0 , C
 END
